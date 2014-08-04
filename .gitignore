@@ -1,0 +1,4 @@
+/.idea/*
+/vendor/*
+/Example/composer.lock
+/Example/vendor/*

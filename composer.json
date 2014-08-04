@@ -1,0 +1,11 @@
+{
+    "name": "YourFrog/RSA",
+    "description": "RSA in PHP Library",
+    "keywords": ["RSA", "PHP"],
+    "homepage": "https://github.com/YourFrog/RSA",
+    "type": "project",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
